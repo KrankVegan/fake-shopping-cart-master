@@ -1,0 +1,39 @@
+# E-commerce Website
+
+This is a test e-commerce website built using React and integrated with the FakeStoreAPI. It allows users to browse products, add them to their cart.
+
+## How to run project
+
+In order to run this project in your local IDE, follow these simple steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone LOLE
+
+2. Inside the project directory:
+
+   npm i
+
+3. afterwards:
+
+   npm run dev
+
+4. At last, open your browser and visit http://localhost:5173 to view the application.
+
+
+## Features
+
+- Browse a variety of products from different categories.
+- Add products to the shopping cart.
+- Basic usages of React concepts.
+- Seamless integration with the FakeStoreAPI.
+
+## Technologies Used
+
+- React
+- FakeStoreAPI
+
+## Live Demo
+
+Check out the live demo [here](https://bazaar-shop-eta.vercel.app/).      
