@@ -9,13 +9,12 @@ In order to run this project in your local IDE, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone LOLE
+   git clone https://github.com/KrankVegan/fake-shopping-cart-master
 
 2. Inside the project directory:
 
    ```bash
    npm i
-
 
 3. afterwards:
 
