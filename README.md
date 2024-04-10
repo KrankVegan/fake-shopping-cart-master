@@ -13,6 +13,7 @@ In order to run this project in your local IDE, follow these simple steps:
 
 2. Inside the project directory:
 
+```bash
    npm i
 
 3. afterwards:
@@ -34,6 +35,3 @@ In order to run this project in your local IDE, follow these simple steps:
 - React
 - FakeStoreAPI
 
-## Live Demo
-
-Check out the live demo [here](https://bazaar-shop-eta.vercel.app/).      
