@@ -16,6 +16,9 @@ export const PageNotFound = () => {
                 <Typography variant="body1" gutterBottom>
                     Browse through our extensive collection and find everything you need, all in one place.
                 </Typography>
+                <Typography variant="body1" gutterBottom>
+                    Pagina Prueba para Evaluacion reactJS en ParqueSoft.
+                </Typography>
             </Box>
             <Button
                 component={Link}
