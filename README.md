@@ -39,6 +39,6 @@ In order to run this project in your local IDE, follow these simple steps:
 ## Explicacion de Funcionamiento:
 
 En este proyecto se usan los conceptos adquiridos de la materia reactJS de ParqueSoft, dictada por el profesor Miguel Torres.
-Se dividieron los componentes del proyecto en carpetas: app, assets, components, Layout y Page. Entre lo mas importante queda recalcar que la carpeta Page viene a definir las pestañas definidas de acuerdo a los eventos que ocurran (e.g mostrar la pestaña Home cuando se le da en el Icono del nombre del E-commerce).
+Se dividieron los componentes del proyecto en carpetas: app, assets, components, Layout y Page. Entre lo mas importante queda recalcar que la carpeta Page viene a definir las pestañas definidas de acuerdo a los eventos que ocurran (e.g mostrar la pestaña Home cuando se le da en el Icono del nombre del E-commerce). Para el enrutamiento y conexion se utiliza Link y Routing desde $react-router-dom$.
 
 PS: muchas partes del proyecto están en inglés debido a que las descripciones de los artículos obtenidos usando Fake Store API estaban escritas en inglés, entonces decidí dejar todo en inglés para así poder también practicarlo.
