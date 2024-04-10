@@ -13,11 +13,13 @@ In order to run this project in your local IDE, follow these simple steps:
 
 2. Inside the project directory:
 
-```bash
+   ```bash
    npm i
+
 
 3. afterwards:
 
+   ```bash
    npm run dev
 
 4. At last, open your browser and visit http://localhost:5173 to view the application.
